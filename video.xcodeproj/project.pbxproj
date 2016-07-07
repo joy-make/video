@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		2F0B51181D2E72D50015BE83 /* Worth.mp4 in Resources */ = {isa = PBXBuildFile; fileRef = 2F0B51171D2E72D50015BE83 /* Worth.mp4 */; };
 		2F89B0051D2A2CBC001AC4F8 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 2F89B0041D2A2CBC001AC4F8 /* main.m */; };
 		2F89B0081D2A2CBC001AC4F8 /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 2F89B0071D2A2CBC001AC4F8 /* AppDelegate.m */; };
 		2F89B00B1D2A2CBC001AC4F8 /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 2F89B00A1D2A2CBC001AC4F8 /* ViewController.m */; };
@@ -35,6 +36,7 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		2F0B51171D2E72D50015BE83 /* Worth.mp4 */ = {isa = PBXFileReference; lastKnownFileType = file; path = Worth.mp4; sourceTree = "<group>"; };
 		2F89B0001D2A2CBC001AC4F8 /* video.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = video.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		2F89B0041D2A2CBC001AC4F8 /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
 		2F89B0061D2A2CBC001AC4F8 /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
@@ -105,6 +107,7 @@
 				2F89B0071D2A2CBC001AC4F8 /* AppDelegate.m */,
 				2F89B0091D2A2CBC001AC4F8 /* ViewController.h */,
 				2F89B00A1D2A2CBC001AC4F8 /* ViewController.m */,
+				2F0B51171D2E72D50015BE83 /* Worth.mp4 */,
 				2F89B00C1D2A2CBC001AC4F8 /* Main.storyboard */,
 				2F89B00F1D2A2CBC001AC4F8 /* Assets.xcassets */,
 				2F89B0111D2A2CBC001AC4F8 /* LaunchScreen.storyboard */,
@@ -243,6 +246,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				2F0B51181D2E72D50015BE83 /* Worth.mp4 in Resources */,
 				2F89B0131D2A2CBC001AC4F8 /* LaunchScreen.storyboard in Resources */,
 				2F89B0101D2A2CBC001AC4F8 /* Assets.xcassets in Resources */,
 				2F89B00E1D2A2CBC001AC4F8 /* Main.storyboard in Resources */,
